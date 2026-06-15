@@ -1,0 +1,6 @@
+{
+  "name": "Sola Graphics",
+  "description": "Bilingual shopping and management app for SOLA GRAPHICS DESIGN & ADVERT printing press featuring real-time order tracking, supply inventory monitoring, automatic low-stock alerts, direct team messaging with Gemini translator, and social linking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
